@@ -1,0 +1,23 @@
+* { padding: 0; margin: 0;}
+
+body { background-color: #776a43; padding-bottom: 100px;}
+
+.topArea{ background: url(image/bg-strip.jpg) repeat-x;}
+
+.mainContent{ width: 960px; margin: 0 auto; padding: 20px; text-align: center;}
+
+.logo{ display: inline-block; margin: 0 auto;}
+
+#myVideo{ border: 10px solid white; box-shadow: 3px 3px 5px #333; background-color: #000; margin: 15px 0;}
+
+.treeTops{ height: 103px; background: url(image/bg-tree.png) repeat-x center bottom;}
+
+.controller{ width: 874px; height: 45px; line-height: 45px; background-color: #000; margin: 0 auto; text-align: left;}
+
+.controller img, .controller input{ display: inline-block; vertical-align: middle; margin-left: 25px;}
+
+#playPosition{ width: 430px;}
+
+#btnPlay{ height: 34px; width: 100px; font-size: 0; border: 0 none;}
+
+#volumePosition{ width: 100px; margin-left: 10px; margin-top: 0;}
